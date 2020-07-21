@@ -1,6 +1,5 @@
 <h2>Hi, i'm Ricardo Castro <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40"></h2>
 <p><em>Freelancer Web Developer</em></p>
-<br>
 
 [![Twitter: rcdevel](https://img.shields.io/twitter/follow/rcdevel?style=social)](https://twitter.com/rcdevel)
 [![GitHub Ricardo Castro](https://img.shields.io/github/followers/rcdevel?label=follow&style=social)](https://github.com/rcdevel)
@@ -16,6 +15,7 @@ I'm a frontend and backend web developer, currently working as a freelancer usin
 #### Twitter: <a href="https://twitter.com/rcdevel?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" target="_blank">@rcdevel</a>
 
 
+⭐️ From [@rcdevel](https://github.com/rcdevel) 😄 💻 
 
 <!--
 **rcdevel/rcdevel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
