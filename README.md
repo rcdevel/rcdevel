@@ -3,7 +3,9 @@
 
 *Freelancer Web Developer*
 <br>
-<a href="https://twitter.com/rcdevel?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @rcdevel</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![Twitter: rcdevel](https://img.shields.io/twitter/follow/rcdevel?style=social)](https://twitter.com/rcdevel)
+[![GitHub Ricardo Castro](https://img.shields.io/github/followers/rcdevel?label=follow&style=social)](https://github.com/rcdevel)
 
 <!--
 **rcdevel/rcdevel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📫 Contact me at
+* * *
+#### Twitter: <a href="https://twitter.com/rcdevel?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" target="_blank">@rcdevel</a>
