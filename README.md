@@ -1,5 +1,10 @@
 ### Hi, i'm Ricardo Castro 👋
 * * *
+
+*Freelancer Web Developer*
+<br>
+<a href="https://twitter.com/rcdevel?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @rcdevel</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <!--
 **rcdevel/rcdevel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
