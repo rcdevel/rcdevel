@@ -5,12 +5,11 @@
 [![GitHub Ricardo Castro](https://img.shields.io/github/followers/rcdevel?label=follow&style=social)](https://github.com/rcdevel)
 
 
-### A little more about me...  
+### A little bit about me...  
 
 I'm a frontend and backend web developer, currently working as a freelancer using technologies like HTML, CSS, Javascript and PHP.
 
-### 🌱 I’m currently learning
-<hr>
+### 🌱 I’m currently learning...
 Python & ReactJS
 
 
