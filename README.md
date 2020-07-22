@@ -7,7 +7,11 @@
 
 ### A little more about me...  
 
-I'm a frontend and backend web developer, currently working as a freelancer using technologies like HTML, CSS, Javascript and PHP. Also Learning new stuff like Python and ReactJS
+I'm a frontend and backend web developer, currently working as a freelancer using technologies like HTML, CSS, Javascript and PHP.
+
+### 🌱 I’m currently learning
+<hr>
+Python & ReactJS
 
 
 ### 📫 Contact me at
