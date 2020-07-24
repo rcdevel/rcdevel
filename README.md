@@ -7,7 +7,7 @@
 
 ### ⚡ A little bit about me...  
 
-I'm a frontend and backend web developer, currently working as a freelancer using technologies like HTML, CSS, Javascript and PHP.
+I'm a fullstack web developer, currently working as a freelancer using technologies like HTML, CSS, Javascript, PHP & SQL. PHP frameworks like CodeIgniter and Laravel
 
 ### 🌱 I’m currently learning...
 Python & ReactJS
