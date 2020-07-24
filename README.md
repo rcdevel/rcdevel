@@ -1,5 +1,5 @@
 <h2>Hi, i'm Ricardo Castro <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40"></h2>
-<p><em>Freelancer Web Developer</em></p>
+<p><em>Freelancer Fullstack Web Developer</em></p>
 
 [![Twitter: rcdevel](https://img.shields.io/twitter/follow/rcdevel?style=social)](https://twitter.com/rcdevel)
 [![GitHub Ricardo Castro](https://img.shields.io/github/followers/rcdevel?label=follow&style=social)](https://github.com/rcdevel)
