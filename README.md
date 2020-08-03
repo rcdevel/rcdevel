@@ -1,4 +1,4 @@
-<h2>Hi, i'm Ricardo Castro <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40"></h2>
+<h2>Hi, i'm Ricardo Castro</h2>
 <p><em>Freelancer Fullstack Web Developer</em></p>
 
 [![Twitter: rcdevel](https://img.shields.io/twitter/follow/rcdevel?style=social)](https://twitter.com/rcdevel)
@@ -12,7 +12,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
-![Php](https://img.shields.io/packagist/php-v/symfony/symfony?style=flat-square)
 
 
 
