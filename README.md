@@ -16,8 +16,9 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
-<!-- Any image aligned to the right. Beware the width -->
+<!-- Any image aligned to the right. Beware the width
 <img width="55%" align="right" alt="Github" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" />
+-->
 
 - 👨🏽‍💻 I’m currently working as a Freelancer on [Workana](https://www.workana.com);
 - 🌱 I’m currently learning Kotlin and C#; 
@@ -34,7 +35,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=rcdevel&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="Ricardo's github stats" src="https://github-readme-stats.vercel.app/api?username=rcdevel&show_icons=true&hide_border=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
@@ -50,7 +51,13 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
+
+
+<!-- This readme was created by Murillo Comino - https://github.com/onimur -->
+⭐️ From [rcdevel](https://github.com/rcdevel)
+
 
 
 
