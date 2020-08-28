@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" />
 -->
 
-- 👨🏽‍💻 I’m currently working as a Freelancer on [Workana](https://www.workana.com);
+- 👨🏽‍💻 I’m currently working as a Freelancer on [Workana](https://www.workana.com/freelancer/ce20a5f67073318d64ce21d9f35fd75e);
 - 🌱 I’m currently learning Kotlin and C#; 
 - 👯 I’m looking to collaborate on amazing projects anywhere in the world 🤝;
 - 🤔 I’m looking for help with Design Pattern 😭;
