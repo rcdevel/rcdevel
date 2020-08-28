@@ -1,30 +1,19 @@
-<h2>Hi, i'm Ricardo Castro</h2>
-<p><em>Freelancer Fullstack Web Developer</em></p>
+<!-- Your title -->
+## Hi, I'm Ricardo Castro, a Developer 🚀 from El Salvador.
 
-[![Twitter: rcdevel](https://img.shields.io/twitter/follow/rcdevel?style=social)](https://twitter.com/rcdevel)
-[![GitHub Ricardo Castro](https://img.shields.io/github/followers/rcdevel?label=follow&style=social)](https://github.com/rcdevel)
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
+-->
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rcdevel)
+<!--#[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-comino-6124ab49/)-->
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/ricastro87/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ricardocastro.devel@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:ricardo.cl2019@outlook.com)
 
-### ⚡ Things i know something about...  
-
-#### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-
-
-
-### 🌱 I’m currently learning...
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+&nbsp;
 
 
-### 📫 Contact me at
-* * *
-#### Twitter: <a href="https://twitter.com/rcdevel?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" target="_blank">@rcdevel</a>
-
-
-⭐️ From [@rcdevel](https://github.com/rcdevel) 😄 💻 
 
 <!--
 **rcdevel/rcdevel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
